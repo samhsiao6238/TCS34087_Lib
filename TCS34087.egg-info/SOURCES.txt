@@ -1,0 +1,7 @@
+README.md
+setup.py
+TCS34087.egg-info/PKG-INFO
+TCS34087.egg-info/SOURCES.txt
+TCS34087.egg-info/dependency_links.txt
+TCS34087.egg-info/requires.txt
+TCS34087.egg-info/top_level.txt
