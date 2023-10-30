@@ -1,14 +1,15 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: TCS34087
 Version: 0.1
 Summary: A library for TCS34087 sensor
-Home-page: https://github.com/yourusername/TCS34087_lib
-Author: Sam6238
-Author-email: gsam6238@gmail.com
-License: UNKNOWN
-Description: UNKNOWN
-Keywords: TCS34087 sensor raspberry pi
+Home-page: https://github.com/samhsiao6238/TCS34087_Lib.git
+Author: SamHsiao6238
+Author-email: samhsiao6238@gmail.com
+License: MIT
+Description: # TCS34087_Lib
+        
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
